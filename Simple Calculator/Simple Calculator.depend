@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1731882742 source:c:\users\dell\onedrive\documents\programming\c++\simple calculator\src\add.cpp
+	"Add.h"
+
+1731882742 c:\users\dell\onedrive\documents\programming\c++\simple calculator\include\add.h
+	<Calculator.h>
+
+1731884339 c:\users\dell\onedrive\documents\programming\c++\simple calculator\include\calculator.h
+	<iostream>
+
+1731884339 source:c:\users\dell\onedrive\documents\programming\c++\simple calculator\src\calculator.cpp
+	"Calculator.h"
+	<iostream>
+
+1731886219 source:c:\users\dell\onedrive\documents\programming\c++\simple calculator\src\division.cpp
+	"Division.h"
+
+1731882742 c:\users\dell\onedrive\documents\programming\c++\simple calculator\include\division.h
+	<Calculator.h>
+
+1731882788 source:c:\users\dell\onedrive\documents\programming\c++\simple calculator\src\multiplication.cpp
+	"Multiplication.h"
+
+1731882742 c:\users\dell\onedrive\documents\programming\c++\simple calculator\include\multiplication.h
+	<Calculator.h>
+
+1731882789 source:c:\users\dell\onedrive\documents\programming\c++\simple calculator\src\subtraction.cpp
+	"Subtraction.h"
+
+1731882742 c:\users\dell\onedrive\documents\programming\c++\simple calculator\include\subtraction.h
+	<Calculator.h>
+
+1731887364 source:c:\users\dell\onedrive\documents\programming\c++\simple calculator\main.cpp
+	<iostream>
+	"Calculator.h"
+	"Addition.h"
+	"Subtraction.h"
+	"Division.h"
+	"Multiplication.h"
+
+1731885099 source:c:\users\dell\onedrive\documents\programming\c++\simple calculator\src\addition.cpp
+	"Addition.h"
+
+1731885099 c:\users\dell\onedrive\documents\programming\c++\simple calculator\include\addition.h
+	<Calculator.h>
+
