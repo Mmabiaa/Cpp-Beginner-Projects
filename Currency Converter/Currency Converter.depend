@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1732048886 source:c:\users\dell\onedrive\documents\programming\c++\currency converter\main.cpp
+	<iostream>
+	<Currency.h>
+
+1732049725 c:\users\dell\onedrive\documents\programming\c++\currency converter\include\currency.h
+	<unordered_map>
+	<iostream>
+	<string>
+
