@@ -59,7 +59,7 @@ void Triangle::check_user_option(int option){
 void Triangle::get_side()
 {
     int side;
-    cout<< "1. Adjacent 2. Opposite 3. Hypotanus"<<endl;
+    cout<< "1. Adjacent 2. Opposite 3. hypotenuse"<<endl;
     cout<< "Enter the side to find(1 - 3): ";
     cin>>side;
     cout<< "-------------------------------------------------"<<endl;
@@ -82,7 +82,7 @@ void Triangle::calculate_side(int side)
         cout<< "-------------------------------------------------"<<endl;
         cout<< "Enter the opposite side: ";
         cin>>opp;
-        cout<< "Enter the hypotanuse side: ";
+        cout<< "Enter the hypotenuse side: ";
         cin>>hyp;
         cout<< "-------------------------------------------------"<<endl;
         adj = sqrt((hyp*hyp)+(opp*opp));
@@ -94,7 +94,7 @@ void Triangle::calculate_side(int side)
         cout<< "-------------------------------------------------"<<endl;
         cout<< "Enter the adjacent side: ";
         cin>>adj;
-        cout<< "Enter the hypotanuse side: ";
+        cout<< "Enter the hypotenuse side: ";
         cin>>hyp;
         cout<< "-------------------------------------------------"<<endl;
 
@@ -103,7 +103,7 @@ void Triangle::calculate_side(int side)
         cout<< "-------------------------------------------------"<<endl;
     }
     else{
-        cout<< "Finding the Hypotanuse side..."<<endl;
+        cout<< "Finding the Hypotenuse side..."<<endl;
         cout<< "-------------------------------------------------"<<endl;
         cout<< "Enter the opposite side: ";
         cin>>opp;
