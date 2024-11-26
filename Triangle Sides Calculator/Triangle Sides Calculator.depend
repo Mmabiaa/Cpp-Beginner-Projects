@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1732584456 source:c:\users\dell\onedrive\documents\programming\c++\triangle sides calculator\main.cpp
+	<iostream>
+	<Triangle.h>
+
+1732585295 c:\users\dell\onedrive\documents\programming\c++\triangle sides calculator\include\triangle.h
+
