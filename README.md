@@ -1,6 +1,6 @@
 # Beginner C++ Programs
 
-Welcome to the Beginner C++ Programs repository! This collection contains simple C++ programs designed for beginners to help you learn and practice fundamental programming concepts. Whether you're just starting out or looking to refresh your skills, these examples will provide a solid foundation.
+Welcome to the Beginner C++ Programs repository! This collection contains simple console-based C++ programs designed for beginners to help you learn and practice fundamental programming concepts. Whether you're just starting out or looking to refresh your skills, these examples will provide a solid foundation.
 
 ## Table of Contents
 
@@ -14,9 +14,9 @@ Welcome to the Beginner C++ Programs repository! This collection contains simple
 ## Features
 
 - Simple and easy-to-understand code
-- Covers basic concepts such as loops, conditionals, functions, and data structures
+- Covers basic concepts such as loops, conditionals, functions, and user input
 - Well-commented code for better understanding
-- Examples that can be easily modified and expanded upon
+- Console applications that can be run in any terminal or command prompt
 
 ## Getting Started
 
@@ -35,13 +35,13 @@ Make sure you have the following installed:
 
 ## Programs Included
 
-Here are the programs included in this repository:
+Here are the console programs included in this repository:
 
 1. **City Quiz** - A fun quiz game that tests your knowledge about different cities.
 2. **Calculator** - A program that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
-3. **Currency Converter** - Converts amounts between different currencies based on current exchange rates.
+3. **Currency Converter** - Converts amounts between different currencies based on user-defined exchange rates.
 4. **Triangle Sides Calculator** - Calculates the length of the sides of a triangle based on user input.
-5. **Dice Rolling Game** - Simulates rolling a pair of dice and displays the result.
+5. **Dice Rolling Game** - Simulates rolling a pair of dice and displays the result in the console.
 6. **Number Guessing Game** - A fun game where the user guesses a randomly generated number within a specified range.
 
 Feel free to explore each program's directory for additional details and comments.
@@ -50,4 +50,4 @@ Feel free to explore each program's directory for additional details and comment
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Mmabiaa/Cpp-Beginner-Projects.git
+   git clone https://github.com/Mmabiaa/cpp-beginner-programs.git
