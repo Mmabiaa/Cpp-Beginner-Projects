@@ -50,4 +50,4 @@ Feel free to explore each program's directory for additional details and comment
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Mmabiaa/cpp-beginner-projects.git
+   git clone https://github.com/Mmabiaa/Cpp-Beginner-Projects.git
