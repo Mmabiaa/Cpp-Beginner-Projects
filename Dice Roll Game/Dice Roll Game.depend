@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1732752405 source:c:\users\dell\onedrive\documents\programming\c++\dice roll game\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<string>
+	<map>
+
