@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1733266752 source:c:\users\dell\onedrive\documents\programming\c++\factorial calculator\main.cpp
+	<iostream>
+	"Calculate.h"
+
+1733269096 c:\users\dell\onedrive\documents\programming\c++\factorial calculator\include\calculate.h
+
+1733269003 source:c:\users\dell\onedrive\documents\programming\c++\factorial calculator\src\calculate.cpp
+	<iostream>
+	"Calculate.h"
+
