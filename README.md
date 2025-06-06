@@ -1,8 +1,8 @@
-# Beginner C++ Programs
+# Beginner C++ Programs🧑🏾‍💻
 
 Welcome to the Beginner C++ Programs repository! This collection contains simple console-based C++ programs designed for beginners to help you learn and practice fundamental programming concepts. Whether you're just starting out or looking to refresh your skills, these examples will provide a solid foundation.
 
-## Table of Contents
+## Table of Contents😌
 
 - [Features](#features)
 - [Getting Started](#getting-started)
@@ -11,14 +11,14 @@ Welcome to the Beginner C++ Programs repository! This collection contains simple
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
+## Features🪶
 
 - Simple and easy-to-understand code
 - Covers basic concepts such as loops, conditionals, functions, and user input
 - Well-commented code for better understanding
 - Console applications that can be run in any terminal or command prompt
 
-## Getting Started
+## Getting Started🤩
 
 To get started with the programs in this repository, you'll need to have a C++ compiler installed on your machine. Some popular options include:
 
@@ -26,14 +26,14 @@ To get started with the programs in this repository, you'll need to have a C++ c
 - **Clang**
 - **Microsoft Visual Studio**
 
-### Prerequisites
+### Prerequisites✨
 
 Make sure you have the following installed:
 
 - A C++ compiler
 - A code editor (e.g., Visual Studio Code, Code::Blocks, or any IDE of your choice)
 
-## Programs Included
+## Programs Included💻
 
 Here are the console programs included in this repository:
 
@@ -46,7 +46,7 @@ Here are the console programs included in this repository:
 
 Feel free to explore each program's directory for additional details and comments.
 
-## How to Run the Programs
+## How to Run the Programs😉
 
 1. Clone this repository to your local machine:
    ```bash
