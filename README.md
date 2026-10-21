@@ -51,3 +51,7 @@ Feel free to explore each program's directory for additional details and comment
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Mmabiaa/cpp-beginner-programs.git
+   ```
+
+2. macOS users can run the console samples from each project's `bin/Debug` folder.
+   The macOS builds use the `-macos` suffix (for example, `Simple Calculator-macos`).
